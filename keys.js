@@ -8,15 +8,5 @@ var twitterKeys = {
 }
 
 
-var omdbKey = '40e9cece';
-
-var spotifyKeys = {
-    id: '517b2889ec0748d782d280175a088727',
-    secret: '91e505e9c1dc4859a249889f4876812a'
-}
-
-module.exports = {
-    twitterKeys,
-    spotifyKeys
-};
+module.exports = twitterKeys
     
